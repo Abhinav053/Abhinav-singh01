@@ -1,112 +1,106 @@
-# Hi, I’m Abhinav Ranjan Singh 👋
+# Hi there, I'm Abhinav Ranjan Singh 👋
 
-**Backend & Full-Stack Developer | Microservices | Real-Time Systems | DSA Enthusiast**
+## 🎓 About Me
 
-I am a B.Tech undergraduate at **IIIT Nagpur (ECE – IoT specialization)** with hands-on experience in building **scalable backend systems**, **real-time applications**, and **modern frontend interfaces**. I focus on clean architecture, performance optimization, and production-grade security.
+I'm a **B.Tech student in Electronics and Communication Engineering** with **IoT Specialization** at **Indian Institute of Information Technology, Nagpur** (2023-2027). I'm passionate about building scalable web applications and solving complex algorithmic problems.
 
----
-
-## 🎓 Education
-**Indian Institute of Information Technology, Nagpur**  
-Bachelor of Technology – Electronics & Communication Engineering (IoT)  
-**CGPA:** 7.75 / 10.0  
-**Duration:** 2023 – 2027  
-
----
+- 🔭 Currently working on full-stack web applications with **MERN Stack**
+- 🌱 Learning **Microservices Architecture** and **Real-time Systems**
+- 💡 Interested in **Healthcare Tech**, **Ride-sharing Platforms**, and **Job Portals**
+- 🏆 **3rd Place** at ESoC Hackathon, IIIT Nagpur
+- 📫 Reach me at: **abhinavrajput6579@gmail.com**
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
-- C++, Python, JavaScript  
-- HTML5, CSS3  
+### Languages
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Frontend
-- React.js, Redux Toolkit  
-- Tailwind CSS  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Backend & Architecture
-- Node.js, Express.js  
-- RESTful APIs  
-- Microservices Architecture  
-- JWT Authentication, Role-Based Access Control  
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
 
 ### Databases
-- MongoDB, MySQL  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Real-Time Systems
-- Socket.IO, WebSockets  
+### Tools & Technologies
+- RESTful APIs & Microservices Architecture
+- JWT Authentication & Authorization
+- WebSockets & Real-time Communication
+- Cloudinary & File Management
+- Google Maps API Integration
 
-### Core Computer Science
-- Data Structures & Algorithms  
-- DBMS, OOP  
-- Operating Systems  
-- Computer Networks  
-- Low-Level Design (LLD)  
+## 💻 Featured Projects
 
----
+### 🏥 [DocTreat](https://github.com/Abhinav-singh01)
+A comprehensive healthcare platform with appointment scheduling, medical records, and AI consultations
+- **Tech Stack:** React.js, Redux, Node.js, Express.js, MongoDB, Socket.IO, JWT, Cloudinary
+- **Key Features:** Role-based access control, Real-time chat, Automated email notifications
+- **Impact:** 100+ active users, 200+ daily notifications
 
-## 🚀 Projects
+### 🚗 [Drivo](https://github.com/Abhinav-singh01)
+A ride-sharing platform with real-time GPS tracking and instant ride matching
+- **Tech Stack:** Node.js, Express.js, MongoDB, Socket.IO, Google Maps API, JWT
+- **Key Features:** Microservices architecture, Live GPS tracking, OTP verification
+- **Impact:** Reduced average rider wait time with real-time event matching
 
-### **DocTreat**
-**Tech Stack:** React.js, Redux, Node.js, Express.js, MongoDB, Socket.IO, JWT, Cloudinary  
+### 💼 [JobOrbit](https://github.com/Abhinav-singh01)
+A job portal managing postings, user profiles, and applications with advanced search
+- **Tech Stack:** React.js (Vite), Redux Toolkit, Node.js, Express.js, MongoDB, JWT, Cloudinary
+- **Key Features:** 15+ REST APIs, Resume uploads, Redux state management
+- **Impact:** 500+ job postings, 200+ user profiles, 300+ documents processed
 
-- Built a healthcare platform supporting appointment scheduling, medical records, and AI consultations for **100+ active users**
-- Implemented secure JWT authentication with role-based access (Admin, Doctor, Patient) and token blacklisting
-- Developed real-time chat using WebSockets connecting **50+ doctors and patients**
-- Automated email notifications using Nodemailer, sending **200+ daily confirmations and reminders**
+## 🏆 Achievements & Competitive Programming
 
----
+- 🥉 **3rd Place** among 50+ teams at ESoC Hackathon (IIIT Nagpur)
+- ⭐ **CodeChef 3-Star** (Rating: 1614) - Top 15% among Indian programmers
+- 💪 **350+ LeetCode Problems** solved (Rating: 1711)
+- 🎯 **200+ CodeChef Problems** solved across various domains
+- 🏅 Competed in **20+ contests** - Consistently ranking top 25%
 
-### **Drivo**
-**Tech Stack:** Node.js, Express.js, MongoDB, Socket.IO, Google Maps API, JWT  
+## 📊 GitHub Stats
 
-- Architected a ride-sharing platform using service-oriented design
-- Implemented JWT authentication with OTP verification for riders and drivers
-- Integrated Google Maps API for live GPS tracking, routing, and fare estimation
-- Reduced rider wait time through instant real-time ride matching
-- Enabled live ride status updates using Socket.IO
+![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhinav-singh01&show_icons=true&theme=radical)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-singh01&layout=compact&theme=radical)
 
-### **JobOrbit**
-**Tech Stack:** React.js (Vite), Redux Toolkit, Node.js, Express.js, MongoDB, JWT, Cloudinary  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-singh01&theme=radical)
 
-- Developed a job portal managing **500+ job postings** and **200+ user profiles**
-- Implemented HTTP-only cookie-based authentication with role-based middleware
-- Designed **15+ REST APIs** handling **500+ daily requests**
-- Integrated Cloudinary for resume and company logo uploads (300+ documents processed)
-- Built a scalable React SPA with **20+ reusable components**
+## 👨‍🏫 Leadership & Mentorship
 
----
+**Senior Core Member & Technical Mentor** | Elevate Web Development Club, IIIT Nagpur *(June 2024 – March 2025)*
+- Mentored 15+ developers through 30+ code reviews
+- Conducted 10+ workshops on API design, database normalization, and security
+- Organized 3 inter-college hackathons with 200+ participants and Rs. 50,000+ sponsorships
 
-## 🏆 Achievements
-- 🥉 3rd place at **ESoC Hackathon (IIIT Nagpur)** among 50+ teams
-- ⭐ CodeChef **3-Star** (Rating: 1614), Top 15% in India
-- 🧠 Solved **350+ LeetCode problems** (Rating: 1711)
-- 🏁 Participated in **20+ competitive programming contests**, consistently ranking in the top 25%
+## 📈 Core Computer Science Knowledge
 
----
+- Data Structures & Algorithms
+- Database Management Systems (DBMS)
+- Object-Oriented Programming (OOP)
+- Operating Systems
+- Computer Networks
+- Low-Level Design
 
-## 👥 Leadership & Community
+## 🔗 Connect with Me
 
-### **Elevate Web Development Club, IIIT Nagpur**
-**Senior Core Member & Technical Mentor** (Jun 2024 – Mar 2025)
-
-- Mentored **15+ developers** through **30+ detailed code reviews**
-- Conducted **10+ workshops** on API design, database normalization, and security
-- Organized **3 inter-college hackathons** and **5+ technical events** with ₹50,000+ sponsorships
-
----
-
-## 📫 Connect With Me
-- **Email:** abhinavrajput6579@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/abhinav-singh  
-- **GitHub:** https://github.com/Abhinav-singh01  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-singh)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Abhinav-singh01)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhinavrajput6579@gmail.com)
+[![Phone](https://img.shields.io/badge/-Phone-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+917357355027)
 
 ---
 
-### ⚡ Current Focus
-- Backend system design & scalability  
-- Microservices & distributed systems  
-- High-performance DSA for interviews  
-- Real-time applications with secure authentication
+💡 *"Building scalable solutions, one line of code at a time"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Abhinav-singh01&color=blueviolet)
