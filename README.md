@@ -32,6 +32,11 @@ I'm a **B.Tech student in Electronics and Communication Engineering** with **IoT
 ### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-5C1515?style=flat-square&logo=redis&logoColor=white)
+### 🔴 Tools & Platforms
+![Postman](https://img.shields.io/badge/Postman-8B0000?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-8B0000?style=flat-square&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-8B0000?style=flat-square&logo=github&logoColor=white)
 
 ### Tools & Technologies
 - RESTful APIs & Microservices Architecture
@@ -94,7 +99,7 @@ A job portal managing postings, user profiles, and applications with advanced se
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-singh)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-singh-84978527b/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Abhinav-singh01)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhinavrajput6579@gmail.com)
 [![Phone](https://img.shields.io/badge/-Phone-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+917357355027)
